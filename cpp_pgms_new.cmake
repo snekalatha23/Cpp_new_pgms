@@ -4,6 +4,4 @@ cmake_minimum_required(VERSION 2.6)
 	bitwiseop bitwiseop.cpp
 	catchCpp catch.cpp
 	conditionalCpp conditionalCpp.cpp
-	copyconstCpp copy_const.cpp
-	privateCpp privateCpp.cpp
-	publicCpp publicCpp.cpp)
+	copyconstCpp copy_const.cpp)
